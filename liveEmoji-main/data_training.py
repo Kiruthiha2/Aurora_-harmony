@@ -8,7 +8,6 @@ from keras.models import Model
  
 is_init = False
 size = -1
-
 label = []
 dictionary = {}
 c = 0
